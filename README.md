@@ -1,6 +1,7 @@
 # TodoList
 Implementation of a TodoList in desktop background in Gnome
 
+This program use no power once modifications are done since it actually change the current background of your computer
 
 ## Setup  
 Clone the repo, and copy your wallpaper in the cloned folder.  
