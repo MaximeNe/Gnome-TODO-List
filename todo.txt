@@ -1,0 +1,9 @@
+1 - overbearing = Autoritaire
+2 - conceited = orgueilleux
+3 - poise = équilibre (comportement)
+4 - Sloppy = négligent
+5 - Merely = just, only
+6 - github mettre TODO
+7 - tensordash
+8 - test GPU
+9 - nvidia-smi
