@@ -27,3 +27,4 @@ fi
 $change_path "$backgroundpath" "$0"
 
 gsettings set org.gnome.desktop.background picture-uri $backgroundpath
+gsettings set org.gnome.desktop.background picture-uri-dark $backgroundpath
